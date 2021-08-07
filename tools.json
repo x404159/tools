@@ -172,6 +172,12 @@
 		"lang": "rust",
 		"description": "A new type of shell.",
 		"github": "https://github.com/nushell/nushell"
+	},
+	{
+		"name": "bandwhich",
+		"lang": "rust",
+		"description": "This is a CLI utility for displaying current network utilization by process, connection and remote IP/hostname",
+		"github": "https://github.com/imsnif/bandwhich"
 	}
 ]
 
