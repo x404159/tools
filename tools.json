@@ -1,0 +1,178 @@
+[
+	{
+		"name": "sd",
+		"lang": "rust",
+		"description": "sed in rust",
+		"github": "https://github.com/chmln/sd"
+	},
+	{
+		"name": "fd",
+		"lang": "rust",
+		"description": "find in rust",
+		"github": "https://github.com/sharkdp/fd"
+	},
+	{
+		"name": "rg",
+		"lang": "rust",
+		"description": "grep in rust (ripgrep)",
+		"github": "https://github.com/BurntSushi/ripgrep"
+	},
+	{
+		"name": "simple-http-server",
+		"lang": "rust",
+		"description": "to server directory or file",
+		"github": "https://github.com/TheWaWaR/simple-http-server"
+	},
+	{
+		"name": "dust",
+		"lang": "rust",
+		"description": "du-dust, du in rust",
+		"github": "https://github.com/bootandy/dust"
+	},
+	{
+		"name": "grex",
+		"lang": "rust",
+		"description": "regex generater in rust",
+		"github": "https://github.com/pemistahl/grex"
+	},
+	{
+		"name": "exa",
+		"lang": "rust",
+		"description": "ls in rust but better",
+		"github": "https://github.com/ogham/exa"
+	},
+	{
+		"name": "amp",
+		"lang": "rust",
+		"description": "text editor in rust",
+		"github": "https://github.com/jmacdonald/amp"
+	},
+	{
+		"name": "bat",
+		"lang": "rust",
+		"description": "cat with wings",
+		"github": "https://github.com/sharkdp/bat"
+	},
+	{
+		"name": "starship",
+		"lang": "rust",
+		"description": "shell promt in rust",
+		"github": "https://github.com/starship/starship"
+	},
+	{
+		"name": "hyperfine",
+		"lang": "rust",
+		"description": "benchmarking tool",
+		"github": "https://github.com/sharkdp/hyperfine"
+	},
+	{
+		"name": "glow",
+		"lang": "Go (goland)",
+		"description": "markdown reader",
+		"github": "https://github.com/charmbracelet/glow"
+	},
+	{
+		"name": "tealdeer",
+		"lang": "shell",
+		"description": "too long didn't read (man alternative)",
+		"github": "https://github.com/gillescastel/tldr"
+	},
+	{
+		"name": "silicon",
+		"lang": "rust",
+		"description": "generate image from code",
+		"github": "https://github.com/Aloxaf/silicon"
+	},
+	{
+		"name": "cavif",
+		"lang": "rust",
+		"description": "convert img format to avif",
+		"github": "https://github.com/kornelski/cavif-rs"
+	},
+	{
+		"name": "tokei",
+		"lang": "rust",
+		"description": "summary of project directory",
+		"github": "https://github.com/XAMPPRocky/tokei"
+	},
+	{
+		"name": "duf",
+		"lang": "Go-land",
+		"description": "a better alternative to df",
+		"github": "https://github.com/muesli/duf"
+	},
+	{
+		"name": "broot",
+		"lang": "rust",
+		"description": "a better way to navigate directory",
+		"github": "https://github.com/Canop/broot"
+	},
+	{
+		"name": "choose",
+		"lang": "rust",
+		"description": "alternative to cut",
+		"github": "https://github.com/theryangeary/choose"
+	},
+	{
+		"name": "tealdeer",
+		"lang": "rust",
+		"description": "a very fast alternative to tldr",
+		"github": "https://github.com/dbrgn/tealdeer"
+	},
+	{
+		"name": "bottom",
+		"lang": "rust",
+		"description": "alternative to htop",
+		"github": "https://github.com/clementtsang/bottom"
+	},
+	{
+		"name": "procs",
+		"lang": "rust",
+		"description": "a alternative to ps",
+		"github": "https://github.com/dalance/procs"
+	},
+	{
+		"name": "xh",
+		"lang": "rust",
+		"description": "curl alternative",
+		"github": "https://github.com/ducaale/xh"
+	},
+	{
+		"name": "rustscan",
+		"lang": "rust",
+		"description": "alternative to nmap",
+		"github": "https://github.com/RustScan/RustScan"
+	},
+	{
+		"name": "dua",
+		"lang": "rust",
+		"description": "disk usage analyzer",
+		"github": "https://github.com/muesli/duf"
+	},
+	{
+		"name": "hexyl",
+		"lang": "rust",
+		"description": "hexyl is a simple hex viewer for the terminal",
+		"github": "https://github.com/sharkdp/hexyl"
+	},
+	{
+		"name": "navi",
+		"lang": "rust",
+		"description": "An interactive cheatsheet tool for the command-line.",
+		"github": "https://github.com/denisidoro/navi"
+	},
+	{
+		"name": "pastel",
+		"lang": "rust",
+		"description": "A command-line tool to generate, analyze, convert and manipulate colors",
+		"github": "https://github.com/sharkdp/pastel"
+	},
+	{
+		"name": "nushell",
+		"lang": "rust",
+		"description": "A new type of shell.",
+		"github": "https://github.com/nushell/nushell"
+	}
+]
+
+
