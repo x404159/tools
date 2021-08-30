@@ -61,11 +61,13 @@
 - better comments
 - thunder client
 - bracket pair colorizer
+- rust syntax
 
 ### themes
 
 - **rouge**,**rouge 2**
 - **Ayu**
+- **night wolf**
 - codesandbox
 - dracula
 - noctis
