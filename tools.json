@@ -178,7 +178,18 @@
 		"lang": "rust",
 		"description": "This is a CLI utility for displaying current network utilization by process, connection and remote IP/hostname",
 		"github": "https://github.com/imsnif/bandwhich"
+	},
+	{
+		"name": "httpie",
+		"lang": "python",
+		"description": "HTTPie: human-friendly CLI HTTP client for the API",
+		"github": "https://github.com/httpie/httpie",
+		"website": "https://httpie.io"
+	},
+	{
+		"name": "fnm",
+		"lang": "rust",
+		"description": "Fast and simple Node.js version manager, built in Rust",
+		"github": "https://github.com/Schniz/fnm"
 	}
 ]
-
-
