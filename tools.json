@@ -191,5 +191,17 @@
 		"lang": "rust",
 		"description": "Fast and simple Node.js version manager, built in Rust",
 		"github": "https://github.com/Schniz/fnm"
+	},
+	{
+		"name": "Helix",
+		"lang": "rust",
+		"description": "A Kakoune / Neovim inspired editor, written in Rust.",
+		"github": "https://github.com/helix-editor/helix"
+	},
+ 	{
+		"name": "wezterm",
+		"lang": "rust",
+		"description": " A GPU-accelerated cross-platform terminal emulator and multiplexer written in Rust ",
+		"github": "https://github.com/wez/wezterm"
 	}
 ]

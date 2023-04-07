@@ -37,10 +37,16 @@
 | `bandwhich`              | -                                      | rust       | [bandwhich](https://github.com/imsnif/bandwhich)                     | This is a CLI utility for displaying current network utilization by process, connection and remote IP/hostname |
 | httpie (`http`, `https`) | `curl`, `wget`                         | python     | [httpie](https://github.com/httpie/httpie)                           | HTTPie: human-friendly CLI HTTP client for the API era                                                         |
 | `fnm`                    | `nvm`                                  | rust       | [fnm](https://github.com/Schniz/fnm)                                 | Fast and simple Node.js version manager, built in Rust                                                         |
+| Helix(`hx`) | `neovim`, `vim`, `Kakoune` | rust | [helix](https://github.com/helix-editor/helix) | A Kakoune / Neovim inspired editor, written in Rust. (Editing with it right now ;D)|
+| `wezterm` | `alacritty`, `iterm`, `windows terminal`, etc | rust | [wezterm](https://github.com/wez/wezterm) | A GPU-accelerated cross-platform terminal emulator and multiplexer written in Rust |
 
 ## VScode
 
+> don't use VScode anymore, used nvim for some time then switched to helix
+
 ### extensions
+
+> depricated ;D , since i don't use VScode
 
 - rust-analyzer
 - prettier
@@ -74,9 +80,13 @@
 - dracula
 - noctis
 - night owl
+- **Ayu Evolve** (available in helix)
+- kanagawa
+- rose pine
 
 ## fav fonts
 
+- **Jetbrains Mono Nerd font**
 - Cartograph CF
 - Operator Mono
 - MonoLisa
