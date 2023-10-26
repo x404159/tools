@@ -221,5 +221,11 @@
 		"lang": "rust",
 		"description": "rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.",
 		"github": "https://github.com/phiresky/ripgrep-all"
+	},
+	{
+		"name": "yazi",
+		"lang": "rust",
+		"description": "Yazi ('duck' in Chinese) is a terminal file manager written in Rust, based on non-blocking async I/O. It aims to provide an efficient, user-friendly, and customizable file management experience.",
+		"github": "https://github.com/sxyazi/yazi"
 	}
 ]

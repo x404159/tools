@@ -42,6 +42,7 @@
 | `rip` | `rm` | rust | [rip](https://github.com/nivekuil/rip) |rip (rm improved) is a command-line deletion tool focused on safety, ergonomics, and performance. It favors a simple interface, and does not implement the xdg-trash spec or attempt to achieve the same goals.|
 | `ffsend` | don't know any | rust | [ffsend](https://github.com/timvisee/ffsend) |Easily and securely share files and directories from the command line through a safe, private and encrypted link using a single simple command. Files are shared using the [Send](https://github.com/timvisee/send) service and may be up to 1GB. Others are able to download these files with this tool, or through their web browser.|
 | ripgrep_all (`rga`) | don't know any | rust | [ripgrep_all](https://github.com/phiresky/ripgrep-all) | rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. |
+| yazi | `nnn`, etc | rust | [yazi](https://github.com/sxyazi/yazi) | Yazi ("duck" in Chinese) is a terminal file manager written in Rust, based on non-blocking async I/O. It aims to provide an efficient, user-friendly, and customizable file management experience. |
 
 ## VScode
 
@@ -52,30 +53,31 @@
 > depricated ;D , since i don't use VScode
 
 - rust-analyzer
-- prettier
-- snippet
-- path intellisence
-- file utils
-- gitlens
-- import cost
-- css peak
-- markdown all-in-one
-- markdownlint
-- git history
-- colorize
-- indent --
-- codelldb
-- better TOML
-- crates
-- auto close tag
-- auto rename tag
-- better comments
-- thunder client
-- bracket pair colorizer
-- rust syntax
+- ~prettier~
+- ~snippet~
+- ~path intellisence~
+- ~file utils~
+- ~gitlens~
+- ~import cost~
+- ~css peak~
+- ~markdown all-in-one~
+- ~markdownlint~
+- ~git history~
+- ~colorize~
+- ~indent --~
+- ~codelldb~
+- ~better TOML~
+- ~crates~
+- ~auto close tag~
+- ~auto rename tag~
+- ~better comments~
+- ~thunder client~
+- ~bracket pair colorizer~
+- ~rust syntax~
 
 ### themes
 
+- **Ayu Evolve** (available in helix)
 - **rouge**,**rouge 2**
 - **Ayu**
 - **night wolf**
@@ -83,7 +85,6 @@
 - dracula
 - noctis
 - night owl
-- **Ayu Evolve** (available in helix)
 - kanagawa
 - rose pine
 
